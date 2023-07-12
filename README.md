@@ -4,6 +4,9 @@
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200"/>
 </div>
 
+Label-Color
+https://img.shields.io/badge/LinkedIn-blue
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
