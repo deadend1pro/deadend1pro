@@ -23,4 +23,10 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### 👨‍💻
+My name is Luke Walsh and im currently learning web development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Germany.
+
+
 
