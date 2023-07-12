@@ -27,6 +27,20 @@
 
 ### 👨‍💻
 My name is Luke Walsh and im currently learning web development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Germany.
+- :telescope: I’m hoping to break into the tech field and continue to learn more.
+
+- :seedling: I can't wait to make more projects and explore more ideas.
+
+- :zap: In my free time, I like to do cosplay and attend conventions.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luke-walsh-66810181/)
+
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deadend1pro&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 
 
